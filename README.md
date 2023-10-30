@@ -3,13 +3,15 @@
 <h2>👩🏾‍💻  Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/sorgille/Active-Directory-Lab)
+  - [Honeypot Lab]
 
-
+<h2>Coding Projects<h2>
 <h2>Certifications</h2>
+  [Google Cybersecurity Professional Certificate]
 
 
 
 <h2> 🤳 Connect with me:</h2>
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[Linkedin](https://linkedin.com/in/shanice-o-615462121)
