@@ -8,7 +8,7 @@
 <h2>Coding Projects<h2>
 <h2>Certifications</h2>
 
-  [Google Cybersecurity Certificate](https://www.credly.com/badges/ebcd183f-1695-48a0-a88b-0508e81ebee6)
+  [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/ebcd183f-1695-48a0-a88b-0508e81ebee6)
 
 
 
