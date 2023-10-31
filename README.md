@@ -3,7 +3,7 @@
 <h2>👩🏾‍💻  Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/sorgille/Active-Directory-Lab)
-  - [Honeypot Lab]
+  - [Honeypot Lab](https://github.com/sorgille/Honeynet-Lab/tree/main)
 
 <h2>Coding Projects<h2>
 <h2>Certifications</h2>
@@ -12,7 +12,7 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳🏾 Connect with me:</h2>
 
 
 [Linkedin](https://linkedin.com/in/shanice-o-615462121)
