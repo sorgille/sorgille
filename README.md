@@ -4,8 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/sorgille/Active-Directory-Lab)
   - [Honeypot Lab](https://github.com/sorgille/Honeynet-Lab/tree/main)
-
-<h2>Coding Projects<h2>
+  - [FakeBank Hacking Project](https://github.com/sorgille/FakeBank-Hacking-Project)<h2>Coding Projects<h2>
 <h2>Certifications</h2>
 
   [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/ebcd183f-1695-48a0-a88b-0508e81ebee6)
