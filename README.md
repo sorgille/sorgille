@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shanice! <br/><a href="https://linkedin.com/in/shanice-o-615462121">Cybersecurity Professional, Project Manager</a>, 
+<h1>Hi, I'm Shanice! <br/><a href="https://linkedin.com/in/shanice-o-615462121">Cybersecurity Professional and Project Manager</a>, 
 
 <h2>👩🏾‍💻  Cybersecurity Projects:</h2>
 
@@ -7,6 +7,13 @@
   - [Honeypot Lab](https://github.com/sorgille/Honeynet-Lab/tree/main)
   - [TryHackMe Labs](https://github.com/sorgille/FakeBank-Hacking-Project)
   - [Wireshark Project](https://github.com/sorgille/Wireshark-Project)
+
+
+
+- <h2>Social Media/Content Creator</h2>
+
+
+
 
   - <h2>Coding Projects<h2>
 <h2>Certifications</h2>
