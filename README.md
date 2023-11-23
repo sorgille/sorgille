@@ -3,7 +3,6 @@
 <h2>👩🏾‍💻  Cybersecurity Projects:</h2>
 
  - [Creating a live SOC / Honeynet in Azure](https://github.com/sorgille/Creating-a-live-SOC-Honeynet-in-Azure)
-  - [Active Directory Home Lab](https://github.com/sorgille/Active-Directory-Lab)
   - [Honeypot Lab](https://github.com/sorgille/Honeynet-Lab/tree/main)
   - [TryHackMe Labs](https://github.com/sorgille/FakeBank-Hacking-Project)
   - [Wireshark Project](https://github.com/sorgille/Wireshark-Project)
