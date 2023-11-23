@@ -16,17 +16,7 @@
   
   [Certified Project Manager](https://www.credly.com/earner/earned/badge/5189f84f-77cd-4a96-9a52-5dbd0868c838)
 
-  
-
-
- <h2>Coding Projects:<h2>
-
-
-
-<h2> 📈 Social Media Manager/Content Creator</h2>
-
-- [Meme Page Growth](https://github.com/sorgille/Content-Creator)
-  
+ 
 
 
 <h2> 🤳🏾 Connect with me:</h2>
