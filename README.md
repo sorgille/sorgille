@@ -15,6 +15,8 @@
   
   [Certified Project Manager](https://www.credly.com/earner/earned/badge/5189f84f-77cd-4a96-9a52-5dbd0868c838)
 
+  [Cybersecurity Masterclass: SOC Analyst](https://app.kajabi.com/certificates/2d5e3c30)
+
  
 
 
