@@ -3,7 +3,7 @@
 
 <h2>Software Devolpment Projects</h2>
 
-- [(HTML Portfolio)](https://github.com/sorgille/HTML-Portfolio-)
+- [HTML Portfolio](https://github.com/sorgille/HTML-Portfolio-)
 
 
 <h2>👩🏾‍💻  Cybersecurity Projects:</h2>
