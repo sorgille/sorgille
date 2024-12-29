@@ -1,5 +1,11 @@
 <h1>Hi, I'm Shanice! <br/><a href="https://linkedin.com/in/shanice-o-615462121">Cybersecurity Professional and Project Manager</a>, 
 
+
+<h2>Software Devolpment Projects</h2>
+
+- [(HTML Portfolio)](https://github.com/sorgille/HTML-Portfolio-)
+
+
 <h2>👩🏾‍💻  Cybersecurity Projects:</h2>
 
  - [Creating a live SOC / Honeynet in Azure](https://github.com/sorgille/Creating-a-live-SOC-Honeynet-in-Azure)
