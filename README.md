@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shanice! <br/><a href="https://linkedin.com/in/shanice-o-615462121">Cybersecurity Professional and Project Manager</a>, 
+<h1>Hi, I'm Shanice! <br/><a href="https://linkedin.com/in/shanice-o-615462121">Software Developer, Cybersecurity Professional, and Project Manager</a> 
 
 
 <h2>Software Devolpment Projects</h2>
