@@ -1,7 +1,7 @@
 <h1>Hi, I'm Shanice! <br/><a href="https://linkedin.com/in/shanice-o-615462121">Software Developer, Cybersecurity Professional, and Project Manager</a> 
 
 
-<h2>Software Devolpment Projects</h2>
+<h2>Software Development Projects</h2>
 
 - [HTML Portfolio](https://github.com/sorgille/HTML-Portfolio-)
 
