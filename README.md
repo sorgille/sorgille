@@ -8,6 +8,8 @@
 - [HTML Portfolio](https://github.com/sorgille/HTML-Portfolio-)
 - [Resume Capstone Project](https://github.com/sorgille/Resume-Capstone-Project)
 
+<h2>Data Analysis Projects</h2>
+
 <h2>👩🏾‍💻  Cybersecurity Projects:</h2>
 
  - [Creating a live SOC / Honeynet in Azure](https://github.com/sorgille/Creating-a-live-SOC-Honeynet-in-Azure)
