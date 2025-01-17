@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shanice! <br/><a href="https://linkedin.com/in/shanice-o-615462121">Software Developer, Cybersecurity Professional, and Project Manager</a> 
+<h1>Hi, I'm Shanice! <br/><a href="https://linkedin.com/in/shanice-o-615462121">Software Developer,</a> <a href="https://github.com/sorgille/Creating-a-live-SOC-Honeynet-in-Azure">Cybersecurity Professional,</a> <a href="https://www.credly.com/earner/earned/badge/5189f84f-77cd-4a96-9a52-5dbd0868c838">and Project Manager</a> 
 
 
 <h2>Software Development Projects</h2>
