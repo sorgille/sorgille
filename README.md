@@ -10,7 +10,7 @@
 
 <h2>Data Analysis Projects</h2>
 
-- [Data Analysis Projects](https://github.com/sorgille/Data-Analysis-Projects)
+- [Data Analysis Project](https://github.com/sorgille/Data-Analysis-Projects)
 
 <h2>👩🏾‍💻  Cybersecurity Projects:</h2>
 
